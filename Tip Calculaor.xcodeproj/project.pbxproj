@@ -15,6 +15,7 @@
 		0D878A9526BA278F00336310 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0D878A9326BA278F00336310 /* LaunchScreen.storyboard */; };
 		0D878AA026BA278F00336310 /* Tip_CalculaorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D878A9F26BA278F00336310 /* Tip_CalculaorTests.swift */; };
 		0D878AAB26BA278F00336310 /* Tip_CalculaorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D878AAA26BA278F00336310 /* Tip_CalculaorUITests.swift */; };
+		0D878AB926BA347C00336310 /* coin-wallet--v3.png in Resources */ = {isa = PBXBuildFile; fileRef = 0D878AB826BA347C00336310 /* coin-wallet--v3.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		0D878AA626BA278F00336310 /* Tip CalculaorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Tip CalculaorUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		0D878AAA26BA278F00336310 /* Tip_CalculaorUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tip_CalculaorUITests.swift; sourceTree = "<group>"; };
 		0D878AAC26BA278F00336310 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0D878AB826BA347C00336310 /* coin-wallet--v3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "coin-wallet--v3.png"; path = "../../../../../Downloads/coin-wallet--v3.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				0D878A9126BA278F00336310 /* Assets.xcassets */,
 				0D878A9326BA278F00336310 /* LaunchScreen.storyboard */,
 				0D878A9626BA278F00336310 /* Info.plist */,
+				0D878AB826BA347C00336310 /* coin-wallet--v3.png */,
 			);
 			path = "Tip Calculaor";
 			sourceTree = "<group>";
@@ -231,6 +234,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0D878AB926BA347C00336310 /* coin-wallet--v3.png in Resources */,
 				0D878A9526BA278F00336310 /* LaunchScreen.storyboard in Resources */,
 				0D878A9226BA278F00336310 /* Assets.xcassets in Resources */,
 				0D878A9026BA278D00336310 /* Main.storyboard in Resources */,
