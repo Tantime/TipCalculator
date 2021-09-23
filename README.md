@@ -30,7 +30,6 @@ Here's a walkthrough of implemented user stories:
 
 <img class="animated-gif" src="https://i.imgur.com/1VEZ2lK.gif" width=300 height=auto>
 <!-- ![](https://i.imgur.com/1VEZ2lK.gif) -->
-<img class="animated-gif" src="https://imgur.com/a/o2Xrl99.gif" width=250 height=auto><br>
 
 GIF created with [ezgif.com](https://ezgif.com/).
 
